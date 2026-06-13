@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=franz-hoepfinger-4diac&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franz-hoepfinger-4diac&count_private=true&show_icons=true&layout=compact)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franz-hoepfinger-4diac&count_private=true&show_icons=true)
 
 
 <!--
