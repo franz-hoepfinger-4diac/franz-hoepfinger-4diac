@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=franz-hoepfinger-4diacr&show_icons=true)
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=franz-hoepfinger-4diacr&show_icons=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franz-hoepfinger-4diac&count_private=true&show_icons=true&layout=compact)
 <!--
 **franz-hoepfinger-4diac/franz-hoepfinger-4diac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
